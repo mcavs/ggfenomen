@@ -10,7 +10,8 @@ fenomenGrob <- function(x, y, size, fenomen = "taksim", geom_key = list(laik = "
                                                                         taksim = "taksim.png",
                                                                         artiz = "artiz.png",
                                                                         komutan = "komutan.png",
-                                                                        ankara = "ankara.png")) {
+                                                                        ankara = "ankara.png",
+                                                                        beyin = "beyin.png")) {
 
   filename <- system.file(geom_key[[unique(fenomen)]], package = "ggfenomen", mustWork = TRUE)
   img <- as.raster(png::readPNG(filename))
