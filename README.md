@@ -83,7 +83,7 @@ ggplot(mtcars) +
 
 ```r
 ggplot(mtcars) +
-  geom_fenomen(aes(mpg, wt), fenomen = "beyin")
+  geom_fenomen(aes(mpg, wt), fenomen = "sabahakadar")
 ```
 
 <p align="center">
