@@ -6,7 +6,8 @@ This is a package inspired by [ggbernie package](https://github.com/R-CoderDotCo
 ## Installation
 ```r
 # install.packages("remotes")
-remotes::install_github("mcavs/fenomen@main")
+remotes::install_github("mcavs/ggfenomen")
+library(ggfenomen)
 ```
 
 ## Fenomen Taksim
