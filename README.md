@@ -57,3 +57,14 @@ ggplot(mtcars) +
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45355486/105611837-d5fe7e80-5dc8-11eb-95b4-cbde465ec209.png">
 </p>
+
+```r
+ggplot(mtcars) +
+  geom_fenomen(aes(mpg, wt), fenomen = "ankara")
+```
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45355486/105615122-326c9880-5ddf-11eb-9064-83ecd78dda4a.png">
+</p>
+
+
