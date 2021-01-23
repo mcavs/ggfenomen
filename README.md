@@ -17,7 +17,7 @@ ggplot(mtcars) +
 ```
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45355486/105609024-8ebbc200-5db7-11eb-96e0-84735dceac61.png">
+ <img src="https://user-images.githubusercontent.com/45355486/105609011-79469800-5db7-11eb-8891-113e1746da89.png">
 </p>
 
 ## Fenomen Laik
@@ -28,7 +28,7 @@ ggplot(mtcars) +
 ```
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45355486/105609011-79469800-5db7-11eb-8891-113e1746da89.png">
+ <img src="https://user-images.githubusercontent.com/45355486/105609024-8ebbc200-5db7-11eb-96e0-84735dceac61.png">
 </p>
 
 ```r
