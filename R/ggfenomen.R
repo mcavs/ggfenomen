@@ -7,7 +7,8 @@ draw_key_fenomen <-  function(data, params, size) {
 
 # fenomenGrob
 fenomenGrob <- function(x, y, size, fenomen = "taksim", geom_key = list(laik = "laik.png",
-                                                                       taksim = "taksim.png")) {
+                                                                        taksim = "taksim.png",
+                                                                        artiz = "artiz.png")) {
 
   filename <- system.file(geom_key[[unique(fenomen)]], package = "ggfenomen", mustWork = TRUE)
   img <- as.raster(png::readPNG(filename))
