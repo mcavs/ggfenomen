@@ -31,3 +31,11 @@ ggplot(mtcars) +
  <img src="https://user-images.githubusercontent.com/45355486/105609011-79469800-5db7-11eb-8891-113e1746da89.png">
 </p>
 
+```r
+ggplot(mtcars) +
+  geom_fenomen(aes(mpg, wt), fenomen = "artiz")
+```
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45355486/105609765-78643500-5dbc-11eb-95de-b80d85be3d1b.png">
+</p>
