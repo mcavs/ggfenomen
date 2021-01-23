@@ -60,7 +60,7 @@ ggplot(mtcars) +
 
 ```r
 ggplot(mtcars) +
-  geom_fenomen(aes(mpg, wt), fenomen = "ankara")
+  geom_fenomen(aes(mpg, wt), fenomen = "beyin")
 ```
 
 <p align="center">
