@@ -1,4 +1,4 @@
-# ggfenomens
+# ggfenomen
 A ggplot2 geom for adding fenomens
 
 This is a package inspired by a [ggbernie package](https://github.com/R-CoderDotCom/ggbernie)
