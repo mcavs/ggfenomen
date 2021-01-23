@@ -1,0 +1,13 @@
+Package: ggfenomen
+Title: A Geom for Adding fenomens
+Version: 1.0
+Authors@R: 
+    person("Mustafa Cavus",
+           role = c("aut", "cre"), email = "mustafacavus09@gmail.com")
+Description: What the package does (one paragraph).
+License: GPL-3
+Encoding: UTF-8
+Imports: ggplot2, png
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
