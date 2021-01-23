@@ -79,3 +79,14 @@ ggplot(mtcars) +
 </p>
 
 
+## Fenomen 7: Zabaha kadar burdayız
+
+```r
+ggplot(mtcars) +
+  geom_fenomen(aes(mpg, wt), fenomen = "beyin")
+```
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45355486/105615529-7614d180-5de2-11eb-9074-f4b10ef38319.png">
+</p>
+
