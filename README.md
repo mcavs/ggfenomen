@@ -39,3 +39,12 @@ ggplot(mtcars) +
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45355486/105609765-78643500-5dbc-11eb-95de-b80d85be3d1b.png">
 </p>
+
+```r
+ggplot(mtcars) +
+  geom_fenomen(aes(mpg, wt), fenomen = "komutan")
+```
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45355486/105610148-3d173580-5dbf-11eb-86b7-c58c8f9f4c7c.png">
+</p>
